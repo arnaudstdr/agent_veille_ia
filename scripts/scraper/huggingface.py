@@ -4,12 +4,12 @@ from datetime import datetime, timedelta
 import os
 
 # URL du blog Hugging Face
-RSS_URL = "https://huggingface.co/blog/feed.xml"
+BLOG_URL = "https://huggingface.co/blog/feed.xml"
 
 def scrape_huggingface_blog(days_limit=7):
-    """Scrape le flux RSS du blog Hugging Face et retourne les articles récents."""
+    """Scrape le blog Hugging Face et retourne les articles récents."""
 
-    feed = feedparser.parse(RSS_URL)
+    feed = feedparser.parse(BLOG_URL)
     print(f"[DEBUG] Nombre d'entrées dans le flux : {len(feed.entries)}")
     
     if not feed.entries:
@@ -45,7 +45,7 @@ def scrape_huggingface_blog(days_limit=7):
     print(f"[DEBUG] Nombre total d'articles retenus : {len(results)}")
     return results
 
-def save_to_json(data, filepath="/Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/hf_articles.json"):
+def save_to_json(data, filepath="outputs/hf_articles.json"):
     """Enregistre les résultats dans un fichier JSON."""
     os.makedirs(os.path.dirname(filepath), exist_ok=True)
     with open(filepath, "w", encoding="utf-8") as f:
