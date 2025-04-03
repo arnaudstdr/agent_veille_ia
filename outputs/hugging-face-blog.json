@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The NLP Course is becoming the LLM Course!",
+    "url": "https://huggingface.co/blog/llm-course",
+    "date": "2025-04-03T00:00:00",
+    "scraped_at": "2025-04-03T22:13:47.639263"
+  },
+  {
+    "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
+    "url": "https://huggingface.co/blog/scaling-secrets-management",
+    "date": "2025-03-31T00:00:00",
+    "scraped_at": "2025-04-03T22:13:47.639267"
+  },
+  {
+    "title": "Accelerating LLM Inference with TGI on Intel Gaudi",
+    "url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
+    "date": "2025-03-28T00:00:00",
+    "scraped_at": "2025-04-03T22:13:47.639270"
+  }
+]
