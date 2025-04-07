@@ -1,62 +1,62 @@
 [
   {
+    "title": "The Essential Guide to Regular Expressions for Data Scientists",
+    "url": "https://www.kdnuggets.com/the-essential-guide-to-regular-expressions-for-data-scientists",
+    "date": "2025-04-04T14:00:43",
+    "scraped_at": "2025-04-07T14:35:54.927669"
+  },
+  {
+    "title": "Top 5 Career Paths in Data Science and How to Self-Learn for Each",
+    "url": "https://www.kdnuggets.com/top-5-career-paths-in-data-science-and-how-to-self-learn-for-each",
+    "date": "2025-04-04T12:00:55",
+    "scraped_at": "2025-04-07T14:35:54.927675"
+  },
+  {
     "title": "Training vs Inference: The Ultimate Alliance",
     "url": "https://www.kdnuggets.com/training-vs-inference-the-ultimate-alliance",
     "date": "2025-04-03T14:00:10",
-    "scraped_at": "2025-04-03T22:13:49.361573"
+    "scraped_at": "2025-04-07T14:35:54.927680"
   },
   {
     "title": "Debug and Profile NumPy Code to Identify Performance Bottlenecks",
     "url": "https://www.kdnuggets.com/debug-and-profile-numpy-code-to-identify-performance-bottlenecks",
     "date": "2025-04-03T12:00:50",
-    "scraped_at": "2025-04-03T22:13:49.361576"
+    "scraped_at": "2025-04-07T14:35:54.927684"
   },
   {
     "title": "Lesser-Known Python Functions That Are Super Useful",
     "url": "https://www.kdnuggets.com/lesser-known-python-functions-that-are-super-useful",
     "date": "2025-04-02T16:00:00",
-    "scraped_at": "2025-04-03T22:13:49.361579"
+    "scraped_at": "2025-04-07T14:35:54.927688"
   },
   {
     "title": "Exploring the Role of Smaller LMs in Augmenting RAG Systems",
     "url": "https://www.kdnuggets.com/exploring-the-role-of-smaller-lms-in-augmenting-rag-systems",
     "date": "2025-04-02T14:00:54",
-    "scraped_at": "2025-04-03T22:13:49.361581"
+    "scraped_at": "2025-04-07T14:35:54.927692"
   },
   {
     "title": "10 GitHub Repositories to Master Cloud Computing",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
     "date": "2025-04-02T13:06:56",
-    "scraped_at": "2025-04-03T22:13:49.361584"
+    "scraped_at": "2025-04-07T14:35:54.927696"
   },
   {
     "title": "Creating a Data Science Pipeline for Real-Time Analytics Using Apache Kafka and Spark",
     "url": "https://www.kdnuggets.com/creating-a-data-science-pipeline-for-real-time-analytics-using-apache-kafka-and-spark",
     "date": "2025-04-01T16:00:19",
-    "scraped_at": "2025-04-03T22:13:49.361586"
+    "scraped_at": "2025-04-07T14:35:54.927700"
   },
   {
     "title": "Tips for Writing Better Unit Tests for Your Python Code",
     "url": "https://www.kdnuggets.com/tips-for-writing-better-unit-tests-for-your-python-code",
     "date": "2025-04-01T14:00:48",
-    "scraped_at": "2025-04-03T22:13:49.361588"
+    "scraped_at": "2025-04-07T14:35:54.927704"
   },
   {
     "title": "5 Free Tutorials to Master Data Visualization with Seaborn",
     "url": "https://www.kdnuggets.com/5-free-tutorials-to-master-data-visualization-with-seaborn",
     "date": "2025-04-01T12:00:55",
-    "scraped_at": "2025-04-03T22:13:49.361590"
-  },
-  {
-    "title": "VIP Cheatsheet: Transformers & Large Language Models",
-    "url": "https://www.kdnuggets.com/vip-cheatsheet-transformers-large-language-models",
-    "date": "2025-03-31T12:00:16",
-    "scraped_at": "2025-04-03T22:13:49.361592"
-  },
-  {
-    "title": "7 GitHub Projects to Master Machine Learning Operations",
-    "url": "https://www.kdnuggets.com/7-github-projects-to-master-machine-learning",
-    "date": "2025-03-28T12:00:03",
-    "scraped_at": "2025-04-03T22:13:49.361595"
+    "scraped_at": "2025-04-07T14:35:54.927708"
   }
 ]

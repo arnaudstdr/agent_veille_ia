@@ -1,20 +1,20 @@
 [
   {
+    "title": "Welcome Llama 4 Maverick & Scout on Hugging Face!",
+    "url": "https://huggingface.co/blog/llama4-release",
+    "date": "2025-04-05T00:00:00",
+    "scraped_at": "2025-04-07T14:35:52.951398"
+  },
+  {
+    "title": "Journey to 1 Million Gradio Users!",
+    "url": "https://huggingface.co/blog/gradio-1m",
+    "date": "2025-04-04T00:00:00",
+    "scraped_at": "2025-04-07T14:35:52.951403"
+  },
+  {
     "title": "The NLP Course is becoming the LLM Course!",
     "url": "https://huggingface.co/blog/llm-course",
     "date": "2025-04-03T00:00:00",
-    "scraped_at": "2025-04-03T22:13:47.639263"
-  },
-  {
-    "title": "How Hugging Face Scaled Secrets Management for AI Infrastructure",
-    "url": "https://huggingface.co/blog/scaling-secrets-management",
-    "date": "2025-03-31T00:00:00",
-    "scraped_at": "2025-04-03T22:13:47.639267"
-  },
-  {
-    "title": "Accelerating LLM Inference with TGI on Intel Gaudi",
-    "url": "https://huggingface.co/blog/intel-gaudi-backend-for-tgi",
-    "date": "2025-03-28T00:00:00",
-    "scraped_at": "2025-04-03T22:13:47.639270"
+    "scraped_at": "2025-04-07T14:35:52.951405"
   }
 ]

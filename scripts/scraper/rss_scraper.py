@@ -34,7 +34,8 @@ def scrape_rss_source(name, url, days_limit=DAYS_LIMIT):
                     "title": entry.title,
                     "url": entry.link,
                     "date": published.isoformat(),
-                    "scraped_at": datetime.now().isoformat()
+                    "scraped_at": datetime.now().isoformat(),
+                    "source": name
                 })
             else:
                 print(f"[DEBUG] Article trop ancien, ignoré")
@@ -45,7 +46,8 @@ def scrape_rss_source(name, url, days_limit=DAYS_LIMIT):
                 "title": entry.title,
                 "url": entry.link,
                 "date": None,
-                "scraped_at": datetime.now().isoformat()
+                "scraped_at": datetime.now().isoformat(),
+                "source": name
             })
     
     return results
