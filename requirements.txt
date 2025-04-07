@@ -1,3 +1,4 @@
 feedparser==6.0.10
 requests==2.31.0
-typing-extensions==4.9.0 
+typing-extensions==4.9.0
+beautifulsoup4==4.12.2 

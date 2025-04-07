@@ -1,0 +1,23 @@
+2025-04-07 16:10:16,841 - INFO - Démarrage du scraping des flux RSS
+2025-04-07 16:10:16,841 - INFO - Démarrage du scraping pour 5 sources
+2025-04-07 16:10:16,841 - INFO - Début du scraping pour: Hugging Face Blog (https://huggingface.co/blog/feed.xml)
+2025-04-07 16:10:16,841 - INFO - Début du scraping pour: Google Research (https://research.google/blog/rss/)
+2025-04-07 16:10:16,842 - INFO - Début du scraping pour: MIT AI News (http://news.mit.edu/rss/topic/artificial-intelligence2)
+2025-04-07 16:10:16,842 - INFO - Début du scraping pour: KDnuggets (http://feeds.feedburner.com/kdnuggets-data-mining-analytics)
+2025-04-07 16:10:16,842 - INFO - Début du scraping pour: ActuIA (https://www.actuia.com/feed/)
+2025-04-07 16:10:17,197 - INFO - Scraping terminé pour KDnuggets: 10 articles récupérés, 0 erreurs
+2025-04-07 16:10:17,198 - INFO - 10 articles enregistrés dans /Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/kdnuggets.json
+2025-04-07 16:10:17,274 - INFO - Scraping terminé pour ActuIA: 14 articles récupérés, 0 erreurs
+2025-04-07 16:10:17,275 - INFO - 14 articles enregistrés dans /Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/actuia.json
+2025-04-07 16:10:17,475 - INFO - Scraping terminé pour Hugging Face Blog: 3 articles récupérés, 0 erreurs
+2025-04-07 16:10:17,475 - INFO - Scraping terminé pour MIT AI News: 5 articles récupérés, 0 erreurs
+2025-04-07 16:10:17,476 - INFO - 3 articles enregistrés dans /Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/hugging-face-blog.json
+2025-04-07 16:10:17,482 - INFO - 5 articles enregistrés dans /Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/mit-ai-news.json
+2025-04-07 16:10:17,488 - INFO - Scraping terminé pour Google Research: 2 articles récupérés, 0 erreurs
+2025-04-07 16:10:17,488 - INFO - 2 articles enregistrés dans /Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/google-research.json
+2025-04-07 16:10:17,488 - INFO - Scraping terminé avec succès
+2025-04-07 16:10:17,488 - INFO - Chargement des articles scrapés
+2025-04-07 16:10:17,489 - INFO - Chargement de 34 articles depuis 5 fichiers
+2025-04-07 16:10:17,489 - INFO - Normalisation des articles
+2025-04-07 16:10:17,491 - INFO - 34 articles normalisés sauvegardés dans /Users/arnaudstadler/Documents/PROJETS/1_PROJETS_ML/agent_veille_ia/outputs/normalized/normalized_articles.json
+2025-04-07 16:10:17,491 - INFO - Pipeline terminé avec succès

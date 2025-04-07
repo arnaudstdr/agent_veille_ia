@@ -1,62 +1,72 @@
 [
   {
+    "title": "3 Ways to Access Llama 4 for Free",
+    "url": "https://www.kdnuggets.com/3-ways-to-access-llama-4-for-free",
+    "date": "2025-04-07T12:56:43",
+    "scraped_at": "2025-04-07T16:10:17.197732",
+    "source": "KDnuggets"
+  },
+  {
     "title": "The Essential Guide to Regular Expressions for Data Scientists",
     "url": "https://www.kdnuggets.com/the-essential-guide-to-regular-expressions-for-data-scientists",
     "date": "2025-04-04T14:00:43",
-    "scraped_at": "2025-04-07T14:35:54.927669"
+    "scraped_at": "2025-04-07T16:10:17.197744",
+    "source": "KDnuggets"
   },
   {
     "title": "Top 5 Career Paths in Data Science and How to Self-Learn for Each",
     "url": "https://www.kdnuggets.com/top-5-career-paths-in-data-science-and-how-to-self-learn-for-each",
     "date": "2025-04-04T12:00:55",
-    "scraped_at": "2025-04-07T14:35:54.927675"
+    "scraped_at": "2025-04-07T16:10:17.197751",
+    "source": "KDnuggets"
   },
   {
     "title": "Training vs Inference: The Ultimate Alliance",
     "url": "https://www.kdnuggets.com/training-vs-inference-the-ultimate-alliance",
     "date": "2025-04-03T14:00:10",
-    "scraped_at": "2025-04-07T14:35:54.927680"
+    "scraped_at": "2025-04-07T16:10:17.197757",
+    "source": "KDnuggets"
   },
   {
     "title": "Debug and Profile NumPy Code to Identify Performance Bottlenecks",
     "url": "https://www.kdnuggets.com/debug-and-profile-numpy-code-to-identify-performance-bottlenecks",
     "date": "2025-04-03T12:00:50",
-    "scraped_at": "2025-04-07T14:35:54.927684"
+    "scraped_at": "2025-04-07T16:10:17.197762",
+    "source": "KDnuggets"
   },
   {
     "title": "Lesser-Known Python Functions That Are Super Useful",
     "url": "https://www.kdnuggets.com/lesser-known-python-functions-that-are-super-useful",
     "date": "2025-04-02T16:00:00",
-    "scraped_at": "2025-04-07T14:35:54.927688"
+    "scraped_at": "2025-04-07T16:10:17.197767",
+    "source": "KDnuggets"
   },
   {
     "title": "Exploring the Role of Smaller LMs in Augmenting RAG Systems",
     "url": "https://www.kdnuggets.com/exploring-the-role-of-smaller-lms-in-augmenting-rag-systems",
     "date": "2025-04-02T14:00:54",
-    "scraped_at": "2025-04-07T14:35:54.927692"
+    "scraped_at": "2025-04-07T16:10:17.197772",
+    "source": "KDnuggets"
   },
   {
     "title": "10 GitHub Repositories to Master Cloud Computing",
     "url": "https://www.kdnuggets.com/10-github-repositories-to-master-cloud-computing",
     "date": "2025-04-02T13:06:56",
-    "scraped_at": "2025-04-07T14:35:54.927696"
+    "scraped_at": "2025-04-07T16:10:17.197777",
+    "source": "KDnuggets"
   },
   {
     "title": "Creating a Data Science Pipeline for Real-Time Analytics Using Apache Kafka and Spark",
     "url": "https://www.kdnuggets.com/creating-a-data-science-pipeline-for-real-time-analytics-using-apache-kafka-and-spark",
     "date": "2025-04-01T16:00:19",
-    "scraped_at": "2025-04-07T14:35:54.927700"
+    "scraped_at": "2025-04-07T16:10:17.197782",
+    "source": "KDnuggets"
   },
   {
     "title": "Tips for Writing Better Unit Tests for Your Python Code",
     "url": "https://www.kdnuggets.com/tips-for-writing-better-unit-tests-for-your-python-code",
     "date": "2025-04-01T14:00:48",
-    "scraped_at": "2025-04-07T14:35:54.927704"
-  },
-  {
-    "title": "5 Free Tutorials to Master Data Visualization with Seaborn",
-    "url": "https://www.kdnuggets.com/5-free-tutorials-to-master-data-visualization-with-seaborn",
-    "date": "2025-04-01T12:00:55",
-    "scraped_at": "2025-04-07T14:35:54.927708"
+    "scraped_at": "2025-04-07T16:10:17.197787",
+    "source": "KDnuggets"
   }
 ]
