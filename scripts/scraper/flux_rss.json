@@ -18,9 +18,5 @@
     {
         "name": "ActuIA",
         "url": "https://www.actuia.com/feed/"
-    },
-    {
-        "name": "OpenAI Blog",
-        "url": "https://openai.com/blog/rss.xml"
     }
 ] 
